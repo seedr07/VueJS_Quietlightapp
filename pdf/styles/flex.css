@@ -1,0 +1,35 @@
+* {
+        font-family: latolight;
+}
+
+h1 {
+        font-size: 36pt;
+        font-family: latolight;
+        color: #000000;
+        line-height: 72pt;
+}
+
+h2 {
+        font-size: 16pt;
+        font-family: latobi;
+        color: #000000;
+        line-height: 36pt;
+}
+
+p, div, span, td, th {
+        line-height: 12pt;
+        font-size: 10pt;
+}
+
+strong {
+        font-family: latob;
+}
+
+
+table {
+        color: black;
+}
+
+table td, table th {
+        font-size: 8pt;
+}

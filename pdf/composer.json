@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mikehaertl/phpwkhtmltopdf": "^2.1",
+        "vlucas/phpdotenv": "^2.0",
+        "querypath/QueryPath": "^3.0",
+        "Masterminds/HTML5": "^2.1"
+    }
+}

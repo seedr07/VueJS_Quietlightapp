@@ -1,0 +1,30 @@
+{
+  "name": "Filemanager",
+  "repo": "simogeo/Filemanager",
+  "description": "An open-source file manager released under MIT license. Up-to-date for PHP and MVC connector.",
+  "version": "2.2.0",
+  "keywords": [
+    "file",
+    "upload",
+    "dms",
+    "document",
+    "management",
+    "system"
+  ],
+  "dependencies": {},
+  "development": {},
+  "main": [
+    "index.html"
+  ],
+  "homepage": "https://github.com/simogeo/Filemanager",
+  "_release": "2.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.2.0",
+    "commit": "06e3a19b743ce4e9df2142f625fb812b6319dfde"
+  },
+  "_source": "git://github.com/simogeo/Filemanager.git",
+  "_target": "~2.2.0",
+  "_originalSource": "simogeo/Filemanager",
+  "_direct": true
+}

@@ -1,0 +1,57 @@
+Array
+(
+    [MediaBox] => Array
+        (
+            [llx] => 0
+            [lly] => 0
+            [urx] => 612
+            [ury] => 792
+        )
+
+    [CropBox] => Array
+        (
+            [llx] => 0
+            [lly] => 0
+            [urx] => 612
+            [ury] => 792
+        )
+
+    [BleedBox] => Array
+        (
+            [llx] => 0
+            [lly] => 0
+            [urx] => 612
+            [ury] => 792
+        )
+
+    [TrimBox] => Array
+        (
+            [llx] => 0
+            [lly] => 0
+            [urx] => 612
+            [ury] => 792
+        )
+
+    [ArtBox] => Array
+        (
+            [llx] => 0
+            [lly] => 0
+            [urx] => 612
+            [ury] => 792
+        )
+
+    [Rotate] => 0
+    [PZ] => 1
+    [w] => 612
+    [h] => 792
+    [wk] => 612
+    [hk] => 792
+    [tm] => 36
+    [bm] => 83
+    [lm] => 18
+    [rm] => 322
+    [pb] => 1
+    [or] => P
+    [olm] => 18
+    [orm] => 18
+)

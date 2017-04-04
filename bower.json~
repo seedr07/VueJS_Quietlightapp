@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Filemanager": "simogeo/Filemanager#~2.2.0",
+    "Porter": "hij1nx/Porter",
+    "jquery-timeago": "rmm5t/jquery-timeago#~1.4.3",
+    "ckeditor": "~4.5.0"
+  }
+}

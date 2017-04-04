@@ -1,0 +1,44 @@
+{
+  "name": "quietlight-app",
+  "version": "1.0.0",
+  "description": "QuietLight Brokerage's Report Generator",
+  "main": "index.js",
+  "scripts": {
+    "dev": "SET APIURL=api.quietlight.loc&& webpack --watch",
+    "build": "SET APIURL=api.quietlight.loc&& webpack",
+    "local": "SET APIURL=api.quietlight.loc&& webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/quietlight/app.git"
+  },
+  "author": "Justin Funk",
+  "license": "None",
+  "bugs": {
+    "url": "https://bitbucket.org/quietlight/app/issues"
+  },
+  "homepage": "http://www.quietlightbrokerage.com",
+  "devDependencies": {
+    "amd-define-factory-patcher-loader": "^1.0.0",
+    "cookies-js": "^1.2.2",
+    "css-loader": "^0.14.4",
+    "file-loader": "^0.8.4",
+    "html-loader": "^0.3.0",
+    "html5sortable": "^0.3.0",
+    "imports-loader": "^0.6.4",
+    "jquery": "^2.1.4",
+    "json-loader": "^0.5.2",
+    "store": "^1.3.17",
+    "style-loader": "^0.12.3",
+    "stylus-loader": "^1.2.0",
+    "url-loader": "^0.5.6",
+    "vue-loader": "2.0.0",
+    "webpack": "^1.8.4"
+  },
+  "dependencies": {
+    "director": "^1.2.8",
+    "vue": "^0.12.0",
+    "semantic-ui": "^2.0.2",
+    "APIConnect": "^0.6.0"
+  }
+}

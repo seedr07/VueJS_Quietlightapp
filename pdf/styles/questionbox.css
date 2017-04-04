@@ -1,0 +1,45 @@
+* {
+	font-family: latolight;
+}
+
+h1 {
+	font-size: 36pt;
+	font-family: latolight;
+	color: #000000;
+	line-height: 72pt;
+}
+
+h2 {
+	font-size: 14pt;
+	font-family: latoblack;
+	color: #000000;
+	line-height: 32pt;
+	text-transform: uppercase;
+}
+
+h4 {
+	font-size: 12pt;
+	line-height: 16pt;
+	font-family: latob;
+	color: #000000;
+	font-weight: bold;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+
+p, div, span, td, th {
+	line-height: 12pt;
+	font-size: 10pt;
+	padding-top: 0pt;
+	padding-bottom: 4pt;
+}
+
+strong {
+	font-family: latob;
+}
+
+
+table {
+	color: black;
+}
